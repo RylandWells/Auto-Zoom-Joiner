@@ -7,14 +7,13 @@ import webbrowser
 MeetingTime1 = '1320'
 MeetingTime2 = '145'
 MeetingTime3 = '1450'
-Monday = ["https://psd1-org.zoom.us/j/84865515016?pwd=R0lGejNOb1FXbWlmdUpnMTdVMm1ZQT09", "https://psd1-org.zoom.us/j/87550275330?pwd=eVdUdVRGMU5FOFBDUXJRVVcvS0cvQT09", "https://psd1-org.zoom.us/j/83313521745?pwd=NklRWnVlZ21iN1Vqb3pXdElSbDQ1Zz09"]
-Tuesday = ["https://psd1-org.zoom.us/j/87914652761?pwd=aE5rZEs1cmU0OVBDKzZZejJ5MW54dz09", "https://psd1-org.zoom.us/j/89409368573?pwd=V1pGUnRyaWFHVkF2K0hrSFFaL2s1UT09", "https://psd1-org.zoom.us/j/85617552829?pwd=ek12VW5WVlp0ZnRzYkVneHJ3RUx1dz09"]
+Monday = ["Meeting1linkMonday", "Meeting2linkMonday", "Meeting3linkMonday"]
+Tuesday = ["Meeting1linkTuesday", "Meeting2linkTuesday", "Meeting3linkTuesday"]
 Wednesday = False 
-Thursday = ["https://psd1-org.zoom.us/j/84865515016?pwd=R0lGejNOb1FXbWlmdUpnMTdVMm1ZQT09", "https://psd1-org.zoom.us/j/88307996526?pwd=Vm5hb1dKOEp5T01PMW56TE1HVkY3Zz09", "https://psd1-org.zoom.us/j/83313521745?pwd=NklRWnVlZ21iN1Vqb3pXdElSbDQ1Zz09"]
-Friday = ["https://psd1-org.zoom.us/j/87914652761?pwd=aE5rZEs1cmU0OVBDKzZZejJ5MW54dz09", "https://psd1-org.zoom.us/j/89409368573?pwd=V1pGUnRyaWFHVkF2K0hrSFFaL2s1UT09", "https://psd1-org.zoom.us/j/85617552829?pwd=ek12VW5WVlp0ZnRzYkVneHJ3RUx1dz09"]
+Thursday = ["Meeting1linkThursday", "Meeting2linkThursday", "Meeting3linkThursday"]
+Friday = ["Meeting1linkFriday", "Meeting2linkFriday", "Meeting3linkFriday"]
 TodaysMeetings = ["nothing", "nothing", "nothing"]
-Clubs = ["https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg5NDJjOTktZmNjZS00OWU3LWI3YzYtMzgzMzBhODhmZDg0%40thread.v2/0?context=%7b%22Tid%22%3a%22d6faa5f9-0ae2-4033-8c01-30048a38deeb%22%2c%22Oid%22%3a%229974a1b9-2ece-4c52-9b1f-1c85007ee23c%22%7d"]
-ClubTime1 = '1530'
+
 
 
 while True:
